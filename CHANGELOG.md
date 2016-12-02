@@ -11,3 +11,7 @@
 ## v1.3 (2016-12-01)
 
 - Fix Santa hat from Boogieramon
+
+## v1.4 (2016-12-01)
+
+- This Santa hat better be fixed now
