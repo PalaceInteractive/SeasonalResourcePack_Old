@@ -24,3 +24,7 @@
 ## v2.1 (2017-9-24)
 
 - Import halloween seasonal files
+
+## v2.2 (2017-9-26)
+
+- Wrong base pack, switching to Palace
