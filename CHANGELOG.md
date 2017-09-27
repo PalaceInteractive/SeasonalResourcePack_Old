@@ -20,3 +20,7 @@
 
 - Add Santa hat from Boogieramon
 - Update pack.png
+
+## v2.1 (2017-9-24)
+
+- Import halloween seasonal files
