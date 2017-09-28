@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/shears"
+    },"overrides":[
+      { "predicate": { "damaged": 1, "damage": 0.004201680672}, "model":"item/seasonaldec/seasonal_horse"},
+      { "predicate": { "damaged": 1, "damage": 0.008403361345}, "model":"item/seasonaldec/seasonalhorse_pole"}
+    ]
+}
