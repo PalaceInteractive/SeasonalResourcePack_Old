@@ -6,7 +6,7 @@
 		"texture1": "blocks/hardened_clay_stained_orange",
 		"texture2": "blocks/clay"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Box1",
 			"from": [ 3, 0, 1 ],

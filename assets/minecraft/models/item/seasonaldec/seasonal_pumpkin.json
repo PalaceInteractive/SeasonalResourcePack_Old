@@ -2,10 +2,10 @@
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "blocks/e_particle",
-		"texture": "blocks/red_sand",
+		"texture": "blocks/wool_colored_orange",
 		"texture1": "blocks/hardened_clay_stained_green"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Box1",
 			"from": [ 6, 5.25, 7.625 ],
