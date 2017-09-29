@@ -28,3 +28,7 @@
 ## v2.2 (2017-9-26)
 
 - Wrong base pack, switching to Palace
+
+## v2.3 (2017-9-29)
+
+ - Remove ladder and rail textures
