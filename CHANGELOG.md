@@ -32,3 +32,7 @@
 ## v2.3 (2017-9-29)
 
  - Remove ladder and rail textures
+
+## v2.4 (2017-9-29)
+
+- Move Mickey Wand to Iron Nugget
