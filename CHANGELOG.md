@@ -40,3 +40,7 @@
 ## v2.5 (2017-10-13)
 
 - Remove glass lining from gray and light gray
+
+## v2.6 (2017-11-8)
+
+- Add Anniversary Items
