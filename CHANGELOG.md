@@ -37,6 +37,16 @@
 
 - Move Mickey Wand to Iron Nugget
 
+<<<<<<< HEAD
 ## v2.5 (2018-06-5)
 
 - Add pride ears
+=======
+## v2.5 (2017-10-13)
+
+- Remove glass lining from gray and light gray
+
+## v2.6 (2017-11-8)
+
+- Add Anniversary Items
+>>>>>>> 3d9c3f1258a2412dac7ce9ceed49235126c342d6
