@@ -36,3 +36,7 @@
 ## v2.4 (2017-9-29)
 
 - Move Mickey Wand to Iron Nugget
+
+## v2.5 (2018-06-5)
+
+- Add pride ears
