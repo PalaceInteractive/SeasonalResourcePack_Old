@@ -1,6 +1,0 @@
-{
-    "parent": "block/plankse_slab_bot",
-    "textures": {
-        "texture": "blocks/planks_spruce"
-    }
-} 

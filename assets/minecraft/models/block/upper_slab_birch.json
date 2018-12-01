@@ -1,6 +1,0 @@
-{
-    "parent": "block/plankse_slab_top",
-    "textures": {
-        "texture": "blocks/planks_birch"
-    }
-} 
