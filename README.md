@@ -1,1 +1,1 @@
-# WDWResourcePack_New
+# SeasonalResourcePack
